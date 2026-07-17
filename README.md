@@ -1,4 +1,3 @@
-# Kelompok-4-Tata-Cara-Sholat-Sesuai-HPT-Muhammadiyah
 # 🕋 Tuntunan Tata Cara Shalat Sesuai HPT Muhammadiyah
 
 Aplikasi web interaktif pembelajaran tata cara shalat fardhu lima waktu (Subuh sampai Isya) berbasis mobile-first, yang disusun berdasarkan putusan resmi **Himpunan Putusan Tarjih (HPT) Muhammadiyah**. Proyek ini dikembangkan untuk memenuhi tugas mata kuliah **Pengembangan Aplikasi Web / Praktikum Pemrograman Web**.
