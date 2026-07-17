@@ -25,13 +25,13 @@ Berdasarkan keputusan internal tim, proses rekayasa sistem dibagi secara terstru
 * **Wirananda Dwi Saputra (QA, Multimedia & Deployment)**
     * *Tugas:* Melakukan kurasi, pemotongan (*cutting*), kompresi audio makhraj bacaan format MP3, optimasi gambar gerakan, serta penanganan rilis aplikasi web.
 * **Natasya Artika Melagis (Front-end Planner & UI/UX Validator)**
-    * *Tugas:* Merancang kerangka *user flow*, konsep visual antarmuka awal (*wireframing* melalui **[Link Figma Wireframe Proyek](https://www.figma.com/)**), serta melakukan pengujian kualitas responsivitas pada perangkat seluler (*mobile testing*).
+    * *Tugas:* Merancang kerangka *user flow*, konsep visual antarmuka awal (*wireframing* melalui **https://www.figma.com/design/1d10iTfAO13FjeOjSK4XAH/WIREFRAME-AIK-KELOMPOK-4?node-id=0-1&t=7NJP1hIGU8dilKcK-0**), serta melakukan pengujian kualitas responsivitas pada perangkat seluler (*mobile testing*).
 
 ---
 
 ## Fitur Utama Aplikasi
 * **Rujukan HPT Valid:** Seluruh bacaan bersumber dari dokumen resmi Majelis Tarjih Muhammadiyah.
-* **Desain UI Awal Terstruktur:** Alur antarmuka dikembangkan dengan mengacu pada *wireframe* awal digital untuk memastikan akurasi tata letak responsive layout (**[Link Figma Wireframe](https://www.figma.com/)**).
+* **Desain UI Awal Terstruktur:** Alur antarmuka dikembangkan dengan mengacu pada *wireframe* awal digital untuk memastikan akurasi tata letak responsive layout (**[Link Figma Wireframe]https://www.figma.com/design/1d10iTfAO13FjeOjSK4XAH/WIREFRAME-AIK-KELOMPOK-4?node-id=0-1&t=7NJP1hIGU8dilKcK-0**).
 * **Penyajian Multi-lapis (*Multilinear Reading*):** Menampilkan variasi doa HPT (seperti 3 lapis potongan doa Iftitah) dalam satu rangkaian gerakan shalat.
 * **Mode Pengguna Ganda:** Pilihan konten dinamis untuk mode Dewasa (terjemahan lengkap) dan mode Anak (terjemahan ringkas ramah anak).
 * **Multimedia Autoplay:** Audio makhraj bacaan `.mp3` dan video peragaan `.mp4` berputar otomatis (*sync*) begitu pengguna bergeser menggunakan tombol Navigasi (Next/Prev).
@@ -53,7 +53,7 @@ Berdasarkan keputusan internal tim, proses rekayasa sistem dibagi secara terstru
 | No | Nama | NIM | Peran | Rincian Kontribusi |
 | :---: | :--- | :---: | :---: | :--- |
 | **1** | Unadiya Rahma Tiara | 241220055 | Ketua/PM | Melakukan koordinasi tim dan pembagian tugas anggota kelompok, Membuat repositori organisasi/proyek di GitHub dan mengundang kolaborator, Mengkomplikasi seluruh materi perancangan menjadi dokumen laporan akhir (PDF), dan mengecek semua tugas dari masing-masing anggota apakah sudah dikerjakan dan ikut serta merapikannya. |
-| **2** | Natasya Artika Melagis | 241220054 | Front-end Developer | Menganalisis kebutuhan antarmuka pengguna berbasis *mobile-first layout*. Merancang sketsa kasar/*wireframe* awal untuk Halaman Beranda, Halaman Daftar Gerakan, dan Halaman Detail Gerakan dalam versi perangkat HP dan Laptop (**[Link Figma Wireframe](https://www.figma.com/)**). |
+| **2** | Natasya Artika Melagis | 241220054 | Front-end Developer | Menganalisis kebutuhan antarmuka pengguna berbasis *mobile-first layout*. Merancang sketsa kasar/*wireframe* awal untuk Halaman Beranda, Halaman Daftar Gerakan, dan Halaman Detail Gerakan dalam versi perangkat HP dan Laptop (**[Link Figma Wireframe](https://www.figma.com/design/1d10iTfAO13FjeOjSK4XAH/WIREFRAME-AIK-KELOMPOK-4?node-id=0-1&t=7NJP1hIGU8dilKcK-0)**). |
 | **3** | Adrian Fernanda | 241220059 | Back-end Developer | Menganalisis logika pemrosesan fitur fungsional sistem (F-01 sampai F-09), dan Merancang logika alur perpindahan halaman serta menyusun diagram Struktur Navigasi Aplikasi. |
 | **4** | Suci Fitri Andini | 241220056 | Database & Content Engineer | Merancang arsitektur basis data minimum dan mengembangkannya ke dalam model skema EER di MySQL Workbench. Menentukan tipe data, *primary key*, *foreign key*, serta relasi antar-tabel (kategori, gerakan, bacaan, kelompok), dan Mengumpulkan data aset konten 13 gerakan sholat beserta teks doa sahih yang bersumber asli dari HPT Muhammadiyah. |
 | **5** | Wirananda Dwi Saputra | 241220023 | QA, Dokumentasi & Deployment | Melakukan analisis dan validasi kesesuaian antara rencana rancangan tim dengan lembar spesifikasi teknis wajib dari dosen, Menyiapkan standarisasi dokumen pengujian awal dan merencanakan strategi *deployment* daring (*online*) untuk pertemuan berikutnya, dan Menyusun Bab I Pendendahuluan dan Bab II Analisis Kebutuhan Sistem. |
