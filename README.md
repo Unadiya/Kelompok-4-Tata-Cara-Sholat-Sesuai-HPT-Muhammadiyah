@@ -22,7 +22,7 @@ Berdasarkan keputusan internal tim, proses rekayasa sistem dibagi secara terstru
     *   *Tugas:* Melakukan kurasi, pemotongan (*cutting*), kompresi audio makhraj bacaan format MP3, optimasi gambar gerakan, serta penanganan rilis aplikasi web.
 *   **Natasya Artika Melagis (Front-end Planner & UI/UX Validator)**
     *   *Tugas:* Merancang kerangka *user flow*, konsep visual antarmuka (*wireframing*), serta melakukan pengujian kualitas responsivitas pada perangkat seluler (*mobile testing*).
-    *   
+    
 ## ✨ Fitur Utama Aplikasi
 *   **Rujukan HPT Valid:** Seluruh bacaan bersumber dari dokumen resmi Majelis Tarjih Muhammadiyah.
 *   **Penyajian Multi-lapis (*Multilinear Reading*):** Menampilkan variasi doa HPT (seperti 3 lapis potongan doa Iftitah) dalam satu rangkaian gerakan shalat.
