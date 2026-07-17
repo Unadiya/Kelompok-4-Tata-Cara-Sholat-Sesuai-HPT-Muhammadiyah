@@ -30,7 +30,7 @@ Berdasarkan keputusan internal tim, proses rekayasa sistem dibagi secara terstru
 *   **Multimedia Autoplay:** Audio makhraj bacaan `.mp3` dan video peragaan `.mp4` berputar otomatis (*sync*) begitu pengguna bergeser menggunakan tombol Navigasi (Next/Prev).
 *   **Header Identitas Permanen:** Menyertakan informasi Nama Kelompok, Prodi, Mata Kuliah, dan Dosen Pengampu secara konsisten pada bagian atas aplikasi.
 
-## 🎙️ Daftar Aset Audio & Video (Wirananda)
+## Daftar Aset Audio & Video (Wirananda Dwi Saputra)
 
 *   **Audio Bacaan Shalat (Lokal):** `takbir.mp3`, `iftitah.mp3`, `ruku.mp3`, `sujud.mp3`, `tahiyat.mp3`, `salam.mp3`
 *   **Video Panduan (Lokal):** `video_tata_cara_sholat.mp4`
