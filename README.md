@@ -2,7 +2,7 @@
 
 Aplikasi web interaktif pembelajaran tata cara shalat fardhu lima waktu (Subuh sampai Isya) berbasis *mobile-first*, yang disusun berdasarkan putusan resmi Himpunan Putusan Tarjih (HPT) Muhammadiyah. Proyek ini dikembangkan untuk memenuhi tugas mata kuliah Pengembangan Aplikasi Web / Praktikum Pemrograman Web.
 
-**Live Demo:** [Teks ini diganti dengan Link Domain Kalian Nanti]
+**Live Demo:** https://tatacarasholathpt.my.id/.
 
 ## Identitas Akademik
 *   **Mata Kuliah:** Pengembangan Aplikasi Web / Praktikum Pemrograman Web
